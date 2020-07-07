@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="output_test">Test-Case-Generate-output</string>
+    <string name="error_test">Test-Case-Error-generated</string>
+    <string name="errormessage">No news found!\nbecause you lose Internet connection\nTry Again\nAfter Check internet connection\nthen Reopen the app</string>
+</resources>
